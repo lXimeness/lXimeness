@@ -14,5 +14,5 @@ Redes Sociais
 [![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](<(https://www.linkedin.com/in/lucas-ximenes-338430237/)>)
 [![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](<(https://www.linkedin.com/in/lucas-ximenes-338430237/)>)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](<(https://www.linkedin.com/in/lucas-ximenes-338430237/)>)
-[![React](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](<(https://www.linkedin.com/in/lucas-ximenes-338430237/)>)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](<(https://www.linkedin.com/in/lucas-ximenes-338430237/)>)
 
